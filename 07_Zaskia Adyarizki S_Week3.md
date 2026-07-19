@@ -33,7 +33,7 @@ Langkah awal dilakukan dengan mencari struktur kristal PPARG di RCSB PDB, dipero
 | Box size (x, y, z) | 20, 20, 20 Å |
 | Sampling exhaustivity | 4 |
 
-Proses docking dilakukan sepenuhnya melalui platform SwissDock 2024 (Bugnon et al., 2024) dengan metode AutoDock Vina 1.2.0 (Eberhardt et al., 2021) sebagai algoritma backend. SMILES wogonin dimasukkan pada kolom Submit a ligand dan disiapkan menggunakan fitur Prepare ligand. Struktur target diunggah dalam format PDB dengan opsi heteroatom "None" untuk menghilangkan ligan bawaan rosiglitazone dan molekul air agar pocket tetap steril. Search box diatur pada koordinat pusat (41, 4, 84) dengan ukuran 20×20×20 Å dan sampling exhaustivity 4, mengikuti hasil prediksi PrankWeb (Gambar 2).
+Proses docking dilakukan sepenuhnya melalui platform SwissDock 2024 dengan metode AutoDock Vina 1.2.0 sebagai algoritma backend. SMILES wogonin dimasukkan pada kolom Submit a ligand dan disiapkan menggunakan fitur Prepare ligand. Struktur target diunggah dalam format PDB dengan opsi heteroatom "None" untuk menghilangkan ligan bawaan rosiglitazone dan molekul air agar pocket tetap steril. Search box diatur pada koordinat pusat (41, 4, 84) dengan ukuran 20×20×20 Å dan sampling exhaustivity 4, mengikuti hasil prediksi PrankWeb (Gambar 2).
 
 ![Ringkasan query dan parameter docking SwissDock](02_swissdock_query_config.jpg)
 *Gambar 2. Ringkasan query dan parameter docking pada SwissDock, beserta struktur 2D ligan wogonin*
@@ -64,7 +64,3 @@ Hasil docking ini melengkapi temuan Week 2 yang mengidentifikasi PPARG sebagai h
 ## Referensi
 
 Ma, C., Hua, Y., Yang, S., Zhao, Y., Zhang, W., Miao, Y., Zhang, J., Feng, B., Zheng, G., Li, L., Liu, Z., Zhang, H., Zhu, M., Gao, X., & Fan, G. (2025). Wogonin attenuates atherosclerosis via KLF11-mediated suppression of PPARα-YAP1-driven glycolysis and enhancement of ABCA1/G1-mediated cholesterol efflux. *Advanced Science*, *12*(23), 2500610. https://doi.org/10.1002/advs.202500610
-
-Bugnon, M., Röhrig, U. F., Goullieux, M., Perez, M. A. S., Daina, A., Michielin, O., & Zoete, V. (2024). SwissDock 2024: major enhancements for small-molecule docking with Attracting Cavities and AutoDock Vina. *Nucleic Acids Research*, *52*(W1), W324–W332. https://doi.org/10.1093/nar/gkae300
-
-Eberhardt, J., Santos-Martins, D., Tillack, A. F., & Forli, S. (2021). AutoDock Vina 1.2.0: New docking methods, expanded force field, and Python bindings. *Journal of Chemical Information and Modeling*, *61*(8), 3891–3898. https://doi.org/10.1021/acs.jcim.1c00203
