@@ -1,13 +1,13 @@
 # Portfolio - In Silico Drug Discovery
 
-## Capstone Project (Final)
-- [Laporan Capstone](Laporan_Singkat_Capstone_PolyphyllinI_HCC.md)
-- Data: folder `data/`, `docking_files/`, `visualizations/`
+## 📌 Capstone Project (Final)
+- [Laporan Capstone - Polyphyllin I vs Hepatocellular Carcinoma](Laporan_Singkat_Capstone_PolyphyllinI_HCC.md)
+- Data pendukung: folder [`data/`](data), [`docking_files/`](docking_files), [`visualizations/`](visualizations)
 
-## Tugas Mingguan
-- Week 1: `07_Zaskia Adyarizki S_Week1.md`
-- Week 2: `07_Zaskia Adyarizki S_Week2.md`
-- Week 3: `07_Zaskia Adyarizki S_Week3.md`
+## 📝 Tugas Mingguan
+- [Week 1 - Network Pharmacology (Carica papaya Linn vs Malaria)](07_Zaskia%20Adyarizki%20S_Week1.md)
+- [Week 2 - Network Pharmacology (QLYD vs Atherosclerosis)](07_Zaskia%20Adyarizki%20S_Week2.md)
+- [Week 3 - Molecular Docking (PPARG vs Wogonin)](07_Zaskia%20Adyarizki%20S_Week3.md)
 
 # Capstone Project: In Silico Drug Discovery
 ## Eksplorasi Mekanisme Molekuler Polyphyllin I terhadap Hepatocellular Carcinoma (HCC)
@@ -22,39 +22,6 @@ Proyek ini mengeksplorasi mekanisme molekuler **Polyphyllin I** (saponin steroid
 - **10 hub gene teratas** (cytoHubba, metode Degree): STAT3, ALB, AKT1, EGFR, ESR1, CASP3, HIF1A, MMP9, SRC, PTGS2
 - **Enrichment KEGG**: Pathways in Cancer, Hepatocellular carcinoma, PI3K-Akt signaling pathway — konsisten dengan paper acuan
 - **Molecular docking** terhadap KDR (VEGFR2, PDB 6XVJ): afinitas terbaik **-9,1675 kkal/mol** (SwissDock, metode Attracting Cavities 2.0), lebih kuat dari ambang -6,0 kkal/mol yang dilaporkan paper acuan
-
-## Struktur Repository
-
-```
-├── Laporan_Singkat_Capstone_PolyphyllinI_HCC.docx   # Laporan lengkap (Pendahuluan, Metode, Hasil, Kesimpulan)
-├── Laporan_Singkat_Capstone_PolyphyllinI_HCC.md      # Versi Markdown (untuk preview GitHub)
-├── data/
-│   ├── 01_target_senyawa_SwissTargetPrediction.csv
-│   ├── 02_target_senyawa_PharmMapper_raw.csv
-│   ├── 03_target_senyawa_PharmMapper_UniProtMapping.tsv
-│   ├── 04_target_senyawa_PharmMapper_final.csv
-│   ├── 05_target_senyawa_GABUNGAN_352gen.csv
-│   ├── 06_target_penyakit_GeneCards_833gen.csv
-│   ├── 07_target_penyakit_OMIM_193gen.csv
-│   ├── 08_target_penyakit_PharmGKB_12gen.csv
-│   ├── 09_target_penyakit_GABUNGAN_972gen.csv
-│   ├── 10_gen_irisan_65gen.csv
-│   ├── 11_STRING_PPI_network_cleaned.tsv
-│   └── 12_docking_results_50poses.csv
-├── docking_files/
-│   └── docking_input_PolyphyllinI_KDR.txt            # SMILES, PDB ID, parameter docking lengkap
-└── visualizations/
-    ├── 00_pubchem_polyphyllin_I.png
-    ├── 01_venn_diagram_irisan.png
-    ├── 02_PPI_network_cytoscape_import.png
-    ├── 03_hub_gene_cytoHubba.jpg
-    ├── 04_enrichment_GO_biological_process.png
-    ├── 05_enrichment_GO_molecular_function.png
-    ├── 06_enrichment_KEGG_pathway.png
-    ├── 07_prankweb_binding_site_6XVJ.png
-    ├── 08_swissdock_query_config.png
-    └── 09_docking_pose_cluster9_TERBAIK.png
-```
 
 ## Workflow Analisis
 
