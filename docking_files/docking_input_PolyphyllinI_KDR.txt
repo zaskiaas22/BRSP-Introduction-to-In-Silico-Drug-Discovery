@@ -1,0 +1,29 @@
+=== INPUT DOCKING: Polyphyllin I terhadap KDR (VEGFR2) ===
+
+Ligand: Polyphyllin I
+PubChem CID: 11018329
+SMILES (isomeric, lengkap dengan stereokimia):
+C[C@@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@H]([C@@H](O8)CO)O)O)O)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)O)O)C)C)C)OC1
+
+Target Protein: KDR / VEGFR2 kinase domain
+PDB ID: 6XVJ (resolusi 1.78 A)
+Catatan: PDB 1VR2 dicoba terlebih dahulu tetapi gagal diproses SwissDock
+karena beberapa residu (LYS838, ARG842, PHE845, TYR938, LYS939, ASP998, dst.)
+memiliki atom rantai samping yang tidak lengkap pada file kristal (struktur lama, 1998).
+
+Platform Docking: SwissDock (swissdock.ch)
+Method: Attracting Cavities 2.0
+Heteroatom target: None
+Binding site (dari PrankWeb, pocket rank 1):
+  Score: 16.57
+  Probability: 0.782
+  Jumlah residu: 27
+  Pocket center: (19.8762, 4.5244, 5.6321)
+Box center digunakan: 20, 5, 6
+Box size: 20 x 20 x 20
+Sampling exhaustivity: low
+Number of RIC: 1
+Cavity prioritization: medium
+
+Hasil terbaik: Cluster #9, SwissParam Score = -9.1675 kkal/mol
+(lihat data/12_docking_results_50poses.csv untuk seluruh 50 model)
