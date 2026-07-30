@@ -1,0 +1,834 @@
+Symbol,Name,Type,Relevance Score
+TP53,Tumor Protein P53,Protein Coding,81.98166
+CTNNB1,Catenin Beta 1,Protein Coding,78.46469
+MIR7-3HG,MIR7-3 Host Gene,RNA Gene,68.111496
+MET,"MET Proto-Oncogene, Receptor Tyrosine Kinase",Protein Coding,64.289055
+APC,APC Regulator Of Wnt Signaling Pathway,Protein Coding,60.382126
+HULC,Hepatocellular Carcinoma Up-Regulated Long Non-Coding RNA,RNA Gene,48.18762
+TERT,Telomerase Reverse Transcriptase,Protein Coding,43.4993
+PIK3CA,"Phosphatidylinositol-4,5-Bisphosphate 3-Kinase Catalytic Subunit Alpha",Protein Coding,43.492096
+HEIH,Hepatocellular Carcinoma Up-Regulated EZH2-Associated Long Non-Coding RNA,RNA Gene,42.33949
+AFP,Alpha Fetoprotein,Protein Coding,40.578087
+H19,H19 Imprinted Maternally Expressed Transcript,RNA Gene,39.658363
+AXIN1,Axin 1,Protein Coding,37.2661
+HEPN1,"Hepatocellular Carcinoma, Down-Regulated 1",Protein Coding,37.227337
+GPC3,Glypican 3,Protein Coding,36.569546
+CCND1,Cyclin D1,Protein Coding,35.451355
+EGFR,Epidermal Growth Factor Receptor,Protein Coding,35.351864
+CASP8,Caspase 8,Protein Coding,35.324684
+PTEN,Phosphatase And Tensin Homolog,Protein Coding,34.971264
+NFKB1,Nuclear Factor Kappa B Subunit 1,Protein Coding,34.824585
+MIR122,MicroRNA 122,RNA Gene,33.058113
+KILH,KRT19 Interacting Long Noncoding RNA In Hepatocellular Carcinoma,RNA Gene,32.795605
+ALB,Albumin,Protein Coding,31.93127
+STAT3,Signal Transducer And Activator Of Transcription 3,Protein Coding,31.464985
+MEG3,Maternally Expressed 3,RNA Gene,31.287361
+HCCAT5,Hepatocellular Carcinoma Associated Transcript 5,RNA Gene,30.450819
+MTOR,Mechanistic Target Of Rapamycin Kinase,Protein Coding,30.392584
+AKT1,AKT Serine/Threonine Kinase 1,Protein Coding,30.266706
+KRAS,"KRAS Proto-Oncogene, GTPase",Protein Coding,29.875124
+GAS5,Growth Arrest Specific 5,RNA Gene,29.422955
+CD274,CD274 Molecule,Protein Coding,29.186562
+PDCD1,Programmed Cell Death 1,Protein Coding,28.504286
+HIF1A,Hypoxia Inducible Factor 1 Subunit Alpha,Protein Coding,27.828697
+VEGFA,Vascular Endothelial Growth Factor A,Protein Coding,27.534437
+XIST,X Inactive Specific Transcript,RNA Gene,26.942326
+IGF2R,Insulin Like Growth Factor 2 Receptor,Protein Coding,26.694332
+MIR21,MicroRNA 21,RNA Gene,26.332632
+TUG1,Taurine Up-Regulated 1,Protein Coding,26.188597
+DANCR,Differentiation Antagonizing Non-Protein Coding RNA,RNA Gene,26.081123
+CYTOR,Cytoskeleton Regulator RNA,RNA Gene,25.570377
+MYC,"MYC Proto-Oncogene, BHLH Transcription Factor",Protein Coding,25.470463
+EPCAM,Epithelial Cell Adhesion Molecule,Protein Coding,25.468756
+CDKN2A,Cyclin Dependent Kinase Inhibitor 2A,Protein Coding,25.156174
+CASP3,Caspase 3,Protein Coding,25.076157
+BRAF,"B-Raf Proto-Oncogene, Serine/Threonine Kinase",Protein Coding,25.047197
+MIRLET7C,MicroRNA Let-7c,RNA Gene,25.011955
+MIR18A,MicroRNA 18a,RNA Gene,24.997791
+ARID1A,AT-Rich Interaction Domain 1A,Protein Coding,24.89954
+KRT7,Keratin 7,Protein Coding,24.89575
+MIR125A,MicroRNA 125a,RNA Gene,24.884123
+HEPFAL,Hepatocellular Carcinoma Ferroptosis Associative LncRNA,RNA Gene,24.69475
+TSC2,TSC Complex Subunit 2,Protein Coding,24.430994
+ATM,ATM Serine/Threonine Kinase,Protein Coding,24.336836
+MIR215,MicroRNA 215,RNA Gene,24.2594
+VDR,Vitamin D Receptor,Protein Coding,24.207651
+IFNA2,Interferon Alpha 2,Protein Coding,24.056925
+MIR139,MicroRNA 139,RNA Gene,23.596004
+SMAD4,SMAD Family Member 4,Protein Coding,23.509287
+PDGFRL,Platelet Derived Growth Factor Receptor Like,Protein Coding,23.458445
+TGFB1,Transforming Growth Factor Beta 1,Protein Coding,23.313906
+PPARG,Peroxisome Proliferator Activated Receptor Gamma,Protein Coding,23.30664
+CCAT1,Colon Cancer Associated Transcript 1,RNA Gene,23.210014
+HFE,Homeostatic Iron Regulator,Protein Coding,23.16621
+ZFAS1,ZNFX1 Antisense RNA 1,RNA Gene,23.093357
+MALAT1,Metastasis Associated Lung Adenocarcinoma Transcript 1,RNA Gene,23.035627
+FGFR2,Fibroblast Growth Factor Receptor 2,Protein Coding,22.997261
+PTGS2,Prostaglandin-Endoperoxide Synthase 2,Protein Coding,22.977482
+CASC2,Cancer Susceptibility 2,RNA Gene,22.949835
+SNHG1,Small Nucleolar RNA Host Gene 1,RNA Gene,22.755312
+DNAJB1,DnaJ Heat Shock Protein Family (Hsp40) Member B1,Protein Coding,22.689205
+TSC1,TSC Complex Subunit 1,Protein Coding,22.602774
+SNHG16,Small Nucleolar RNA Host Gene 16,RNA Gene,22.524761
+HHCM,Mahlavu Hepatocellular Carcinoma,Uncategorized,22.3363
+NRAS,"NRAS Proto-Oncogene, GTPase",Protein Coding,22.296797
+SPRTN,SprT-Like N-Terminal Domain,Protein Coding,22.2964
+MMP9,Matrix Metallopeptidase 9,Protein Coding,22.255468
+IDH1,Isocitrate Dehydrogenase (NADP(+)) 1,Protein Coding,22.182394
+RET,Ret Proto-Oncogene,Protein Coding,22.002655
+MIR146A,MicroRNA 146a,RNA Gene,22.002054
+NOTCH1,Notch Receptor 1,Protein Coding,21.999527
+PNPLA3,"Patatin Like Domain 3, 1-Acylglycerol-3-Phosphate O-Acyltransferase ",Protein Coding,21.996414
+ERBB2,Erb-B2 Receptor Tyrosine Kinase 2,Protein Coding,21.744205
+BIRC5,Baculoviral IAP Repeat Containing 5,Protein Coding,21.618189
+MIR34A,MicroRNA 34a,RNA Gene,21.550388
+IL6,Interleukin 6,Protein Coding,21.376678
+MIR221,MicroRNA 221,RNA Gene,21.193443
+PMS2,"PMS1 Homolog 2, Mismatch Repair System Component",Protein Coding,21.166716
+IGF1R,Insulin Like Growth Factor 1 Receptor,Protein Coding,21.15164
+MIR195,MicroRNA 195,RNA Gene,21.142824
+KCNQ1OT1,KCNQ1 Opposite Strand/Antisense Transcript 1,RNA Gene,21.059814
+MIR199B,MicroRNA 199b,RNA Gene,20.979671
+UCA1,Urothelial Cancer Associated 1,RNA Gene,20.932426
+AXL,AXL Receptor Tyrosine Kinase,Protein Coding,20.922802
+ABCB1,ATP Binding Cassette Subfamily B Member 1,Protein Coding,20.78887
+MIR224,MicroRNA 224,RNA Gene,20.765356
+KDR,Kinase Insert Domain Receptor,Protein Coding,20.759869
+JAK2,Janus Kinase 2,Protein Coding,20.70907
+FGFR3,Fibroblast Growth Factor Receptor 3,Protein Coding,20.66413
+HOTAIR,HOX Transcript Antisense RNA,RNA Gene,20.64523
+MIR17,MicroRNA 17,RNA Gene,20.540247
+FGFR1,Fibroblast Growth Factor Receptor 1,Protein Coding,20.525017
+MMP2,Matrix Metallopeptidase 2,Protein Coding,20.520445
+EGF,Epidermal Growth Factor,Protein Coding,20.505201
+HRAS,"HRas Proto-Oncogene, GTPase",Protein Coding,20.419973
+MIR216A,MicroRNA 216a,RNA Gene,20.316193
+ALK,ALK Receptor Tyrosine Kinase,Protein Coding,20.234108
+CDKN1A,Cyclin Dependent Kinase Inhibitor 1A,Protein Coding,20.210472
+MIR145,MicroRNA 145,RNA Gene,20.160912
+PDGFRA,Platelet Derived Growth Factor Receptor Alpha,Protein Coding,20.051285
+MIR214,MicroRNA 214,RNA Gene,19.997164
+MAPK1,Mitogen-Activated Protein Kinase 1,Protein Coding,19.993118
+ENSG00000216663,Hepatocellular Carcinoma-Related Putative Tumor Suppressor (LPTS) Pseudogene,Pseudogene,19.974623
+FKSG49,Hepatocellular Carcinoma-Associated Antigen HCA25b,Protein Coding,19.974623
+PRKACA,Protein Kinase CAMP-Activated Catalytic Subunit Alpha,Protein Coding,19.971485
+MCM3AP-AS1,MCM3AP Antisense RNA 1,RNA Gene,19.870121
+MIR203A,MicroRNA 203a,RNA Gene,19.86766
+LINC00473,Long Intergenic Non-Protein Coding RNA 473,RNA Gene,19.767422
+KIT,"KIT Proto-Oncogene, Receptor Tyrosine Kinase",Protein Coding,19.557184
+MIR222,MicroRNA 222,RNA Gene,19.511719
+NFE2L2,NFE2 Like BZIP Transcription Factor 2,Protein Coding,19.471046
+HAGLR,HOXD Antisense Growth-Associated Long Non-Coding RNA,RNA Gene,19.46919
+MIR93,MicroRNA 93,RNA Gene,19.437042
+KRT19,Keratin 19,Protein Coding,19.345137
+CASC9,Cancer Susceptibility 9,RNA Gene,19.286665
+SRC,"SRC Proto-Oncogene, Non-Receptor Tyrosine Kinase",Protein Coding,19.23245
+MIR200B,MicroRNA 200b,RNA Gene,19.214233
+MIR183,MicroRNA 183,RNA Gene,19.192158
+RAD50,RAD50 Double Strand Break Repair Protein,Protein Coding,19.081104
+SMAD7,SMAD Family Member 7,Protein Coding,19.037825
+MIR27A,MicroRNA 27a,RNA Gene,18.94874
+MIR155,MicroRNA 155,RNA Gene,18.846016
+LINC00958,Long Intergenic Non-Protein Coding RNA 958,RNA Gene,18.820745
+SERPINA1,Serpin Family A Member 1,Protein Coding,18.806822
+MIR223,MicroRNA 223,RNA Gene,18.795696
+NR2F1-AS1,NR2F1 Regulatory Antisense RNA 1,RNA Gene,18.792267
+HOTTIP,HOXA Distal Transcript Antisense RNA,RNA Gene,18.705906
+MIR182,MicroRNA 182,RNA Gene,18.699745
+MIAT,Myocardial Infarction Associated Transcript,RNA Gene,18.69724
+DGCR5,DiGeorge Syndrome Critical Region Gene 5,RNA Gene,18.681555
+NEAT1,Nuclear Paraspeckle Assembly Transcript 1,RNA Gene,18.657549
+NF1,Neurofibromin 1,Protein Coding,18.657547
+GSK3B,Glycogen Synthase Kinase 3 Beta,Protein Coding,18.655582
+MIR142,MicroRNA 142,RNA Gene,18.59881
+ZFPM2-AS1,ZFPM2 Antisense RNA 1,RNA Gene,18.575903
+KRT20,Keratin 20,Protein Coding,18.560677
+YAP1,Yes1 Associated Transcriptional Regulator,Protein Coding,18.517754
+CRP,C-Reactive Protein,Protein Coding,18.49275
+RAF1,"Raf-1 Proto-Oncogene, Serine/Threonine Kinase",Protein Coding,18.472042
+MIR126,MicroRNA 126,RNA Gene,18.470598
+MIR4435-2HG,MIR4435-2 Host Gene,RNA Gene,18.439383
+SNHG5,Small Nucleolar RNA Host Gene 5,RNA Gene,18.37295
+MIR212,MicroRNA 212,RNA Gene,18.361622
+MIR31,MicroRNA 31,RNA Gene,18.356693
+FAH,Fumarylacetoacetate Hydrolase,Protein Coding,18.295698
+MAPK3,Mitogen-Activated Protein Kinase 3,Protein Coding,18.253536
+MIR106B,MicroRNA 106b,RNA Gene,18.202387
+MSC-AS1,MSC Antisense RNA 1,RNA Gene,18.172478
+MIR200A,MicroRNA 200a,RNA Gene,18.158566
+MIR148A,MicroRNA 148a,RNA Gene,18.15643
+CTLA4,Cytotoxic T-Lymphocyte Associated Protein 4,Protein Coding,18.153131
+LINC00261,Long Intergenic Non-Protein Coding RNA 261,RNA Gene,18.092869
+LINC01554,Long Intergenic Non-Protein Coding RNA 1554,RNA Gene,18.029589
+MAP2K1,Mitogen-Activated Protein Kinase Kinase 1,Protein Coding,18.022776
+PTK2,Protein Tyrosine Kinase 2,Protein Coding,17.969597
+MIR23B,MicroRNA 23b,RNA Gene,17.96518
+PTPN11,Protein Tyrosine Phosphatase Non-Receptor Type 11,Protein Coding,17.959154
+NR1H4,Nuclear Receptor Subfamily 1 Group H Member 4,Protein Coding,17.892267
+MIR23A,MicroRNA 23a,RNA Gene,17.854801
+NTRK1,Neurotrophic Receptor Tyrosine Kinase 1,Protein Coding,17.84518
+MIR150,MicroRNA 150,RNA Gene,17.801973
+FGFR4,Fibroblast Growth Factor Receptor 4,Protein Coding,17.786943
+NBN,Nibrin,Protein Coding,17.767075
+BCYRN1,Brain Cytoplasmic RNA 1,RNA Gene,17.757254
+MIR320A,MicroRNA 320a,RNA Gene,17.691238
+MIR26A1,MicroRNA 26a-1,RNA Gene,17.678295
+MIR30A,MicroRNA 30a,RNA Gene,17.584776
+MIR25,MicroRNA 25,RNA Gene,17.578735
+LINC00511,Long Intergenic Non-Protein Coding RNA 511,RNA Gene,17.51549
+TNF,Tumor Necrosis Factor,Protein Coding,17.514542
+AGO2,Argonaute RISC Catalytic Component 2,Protein Coding,17.513683
+SBF2-AS1,SBF2 Antisense RNA 1,RNA Gene,17.511105
+PCBP1-AS1,PCBP1 Antisense RNA 1,RNA Gene,17.505293
+MIR141,MicroRNA 141,RNA Gene,17.471848
+MIR494,MicroRNA 494,RNA Gene,17.42482
+CDK4,Cyclin Dependent Kinase 4,Protein Coding,17.41657
+MIR96,MicroRNA 96,RNA Gene,17.399548
+MIR9-2,MicroRNA 9-2,RNA Gene,17.28653
+IDH2,Isocitrate Dehydrogenase (NADP(+)) 2,Protein Coding,17.26569
+ROS1,"ROS Proto-Oncogene 1, Receptor Tyrosine Kinase",Protein Coding,17.249321
+TMPO-AS1,TMPO Antisense RNA 1,RNA Gene,17.243534
+DDX11-AS1,DDX11 Antisense RNA 1,RNA Gene,17.184687
+THORLNC,Testis Associated Oncogenic LncRNA,RNA Gene,17.121372
+GNAS,GNAS Complex Locus,Protein Coding,17.120077
+MDM2,MDM2 Proto-Oncogene,Protein Coding,17.032326
+MIRLET7B,MicroRNA Let-7b,RNA Gene,17.012688
+PBRM1,Polybromo 1,Protein Coding,17.00659
+DLGAP1-AS1,DLGAP1 Antisense RNA 1,RNA Gene,16.949139
+MIR30E,MicroRNA 30e,RNA Gene,16.898418
+MIR125B1,MicroRNA 125b-1,RNA Gene,16.861258
+EIF3J-DT,EIF3J Divergent Transcript,RNA Gene,16.785553
+FEZF1-AS1,FEZF1 Antisense RNA 1,RNA Gene,16.784546
+MIR500A,MicroRNA 500a,RNA Gene,16.73451
+HOXA11-AS,HOXA11 Antisense RNA,RNA Gene,16.71096
+FASLG,Fas Ligand,Protein Coding,16.696066
+PRMT5,Protein Arginine Methyltransferase 5,Protein Coding,16.691996
+CDKN3,Cyclin Dependent Kinase Inhibitor 3,Protein Coding,16.678473
+NORAD,Non-Coding RNA Activated By DNA Damage,RNA Gene,16.674458
+CDKN2B-AS1,CDKN2B And CDKN2A Antisense Cis And Trans Regulatory RNA 1,RNA Gene,16.65688
+BAP1,BRCA1 Associated Deubiquitinase 1,Protein Coding,16.64982
+MIR24-2,MicroRNA 24-2,RNA Gene,16.647623
+ZEB2-AS1,ZEB2 Antisense RNA 1,RNA Gene,16.579062
+MIRLET7G,MicroRNA Let-7g,RNA Gene,16.577759
+ST8SIA6-AS1,ST8SIA6 Antisense RNA 1,RNA Gene,16.57198
+PVT1,Pvt1 Oncogene,RNA Gene,16.533373
+HAGLROS,HAGLR Opposite Strand LncRNA,RNA Gene,16.532219
+MIR31HG,MIR31 Host Gene,RNA Gene,16.521833
+FH,Fumarate Hydratase,Protein Coding,16.48312
+EPB41L4A-DT,EPB41L4A Divergent Transcript,RNA Gene,16.43418
+TPX2,TPX2 Microtubule Nucleation Factor,Protein Coding,16.432196
+GOLM1,Golgi Membrane Protein 1,Protein Coding,16.405756
+CARMN,Cardiac Mesoderm Enhancer-Associated Non-Coding RNA,RNA Gene,16.391867
+MIR107,MicroRNA 107,RNA Gene,16.389078
+STK11,Serine/Threonine Kinase 11,Protein Coding,16.369097
+SMARCA2,SWI/SNF Related BAF Chromatin Remodeling Complex Subunit ATPase 2,Protein Coding,16.349134
+MIR143,MicroRNA 143,RNA Gene,16.317123
+RUNX1-IT1,RUNX1 Intronic Transcript 1,RNA Gene,16.300606
+MIR132,MicroRNA 132,RNA Gene,16.300287
+SNHG14,Small Nucleolar RNA Host Gene 14,RNA Gene,16.296776
+ABCB11,ATP Binding Cassette Subfamily B Member 11,Protein Coding,16.25815
+MIR20A,MicroRNA 20a,RNA Gene,16.24223
+ABCC2,ATP Binding Cassette Subfamily C Member 2,Protein Coding,16.178547
+NTRK2,Neurotrophic Receptor Tyrosine Kinase 2,Protein Coding,16.1636
+NIHCOLE,NcRNA Involved In NHEJ Oncogenic Ligation Efficiency,RNA Gene,16.161442
+BCL2,BCL2 Apoptosis Regulator,Protein Coding,16.161339
+BAX,"BCL2 Associated X, Apoptosis Regulator",Protein Coding,16.139935
+FGF19,Fibroblast Growth Factor 19,Protein Coding,16.132435
+MIR128-2,MicroRNA 128-2,RNA Gene,16.12159
+MIR338,MicroRNA 338,RNA Gene,16.100851
+NNT-AS1,NNT Antisense RNA 1,RNA Gene,16.080038
+LINC-PINT,"Long Intergenic Non-Protein Coding RNA, P53 Induced Transcript",RNA Gene,16.000664
+MIR374A,MicroRNA 374a,RNA Gene,16.000057
+IGF2BP2,Insulin Like Growth Factor 2 MRNA Binding Protein 2,Protein Coding,15.973305
+MIR186,MicroRNA 186,RNA Gene,15.965806
+IGF2-AS,IGF2 Antisense RNA,RNA Gene,15.927537
+MIR301A,MicroRNA 301a,RNA Gene,15.880741
+CCAT2,Colon Cancer Associated Transcript 2,RNA Gene,15.879859
+ITCH,Itchy E3 Ubiquitin Protein Ligase,Protein Coding,15.861328
+PICSAR,P38 Inhibited Cutaneous Squamous Cell Carcinoma Associated LincRNA,RNA Gene,15.860229
+MIR130A,MicroRNA 130a,RNA Gene,15.853971
+MIR185,MicroRNA 185,RNA Gene,15.820208
+MSH2,MutS Homolog 2,Protein Coding,15.808781
+TTN-AS1,TTN Antisense RNA 1,RNA Gene,15.791875
+CASC8,Cancer Susceptibility 8,RNA Gene,15.768236
+LINC00472,Long Intergenic Non-Protein Coding RNA 472,RNA Gene,15.735737
+MILIP,MYC Inducible LncRNA Inactivating P53,RNA Gene,15.69138
+GSTM3,Glutathione S-Transferase Mu 3,Protein Coding,15.683219
+CEBPA-DT,CEBPA Divergent Transcript,RNA Gene,15.616706
+FIRRE,Firre Intergenic Repeating RNA Element,RNA Gene,15.606715
+PROM1,Prominin 1,Protein Coding,15.594463
+MIR26B,MicroRNA 26b,RNA Gene,15.564093
+ACTA2-AS1,ACTA2 Antisense RNA 1,RNA Gene,15.564016
+FOXM1,Forkhead Box M1,Protein Coding,15.534249
+MIR181A1,MicroRNA 181a-1,RNA Gene,15.531616
+NBR2,Neighbor Of BRCA1 LncRNA 2,RNA Gene,15.529158
+MIR137,MicroRNA 137,RNA Gene,15.523289
+MIR125B2,MicroRNA 125b-2,RNA Gene,15.509482
+DCST1-AS1,DCST1 Antisense RNA 1,RNA Gene,15.488209
+MIR26A2,MicroRNA 26a-2,RNA Gene,15.4667225
+CYP3A4,Cytochrome P450 Family 3 Subfamily A Member 4,Protein Coding,15.457546
+lnc-EPC1-4,,RNA Gene,15.4548235
+DDR2,Discoidin Domain Receptor Tyrosine Kinase 2,Protein Coding,15.448612
+EZH2,Enhancer Of Zeste 2 Polycomb Repressive Complex 2 Subunit,Protein Coding,15.413674
+MTUS1,Microtubule Associated Scaffold Protein 1,Protein Coding,15.372593
+HSPA5,Heat Shock Protein Family A (Hsp70) Member 5,Protein Coding,15.37247
+LINC00673,Long Intergenic Non-Protein Coding RNA 673,RNA Gene,15.321594
+MIR181B1,MicroRNA 181b-1,RNA Gene,15.291958
+SLC25A15,Solute Carrier Family 25 Member 15,Protein Coding,15.281083
+CRNDE,Colorectal Neoplasia Differentially Expressed,RNA Gene,15.269076
+G6PC1,Glucose-6-Phosphatase Catalytic Subunit 1,Protein Coding,15.265353
+MIR15A,MicroRNA 15a,RNA Gene,15.261975
+PRR34-AS1,PRR34 Antisense RNA 1,RNA Gene,15.246278
+SNHG17,Small Nucleolar RNA Host Gene 17,RNA Gene,15.245627
+TLR4,Toll Like Receptor 4,Protein Coding,15.229339
+TSPOAP1-AS1,"TSPOAP1, SUPT4H1 And RNF43 Antisense RNA 1",RNA Gene,15.171763
+TCL6,T Cell Leukemia/Lymphoma 6,RNA Gene,15.166766
+NTRK3,Neurotrophic Receptor Tyrosine Kinase 3,Protein Coding,15.143912
+MIR152,MicroRNA 152,RNA Gene,15.143722
+MIR181A2,MicroRNA 181a-2,RNA Gene,15.14281
+OIP5-AS1,OIP5 Antisense RNA 1,RNA Gene,15.128458
+BAIAP2-DT,BAIAP2 Divergent Transcript,RNA Gene,15.127344
+OTUD6B-AS1,OTUD6B Antisense RNA 1,RNA Gene,15.127344
+ABCB4,ATP Binding Cassette Subfamily B Member 4,Protein Coding,15.116907
+MIR127,MicroRNA 127,RNA Gene,15.115909
+MIR136,MicroRNA 136,RNA Gene,15.09189
+TMCC1-DT,TMCC1 Divergent Transcript,RNA Gene,15.072895
+TM6SF2,Transmembrane 6 Superfamily Member 2,Protein Coding,15.044361
+BECN1,Beclin 1,Protein Coding,15.044183
+ABCC6,ATP Binding Cassette Subfamily C Member 6,Protein Coding,15.024197
+DKK1,Dickkopf Wnt Signaling Pathway Inhibitor 1,Protein Coding,15.014298
+TTF1,Transcription Termination Factor 1,Protein Coding,15.013895
+SNHG6,Small Nucleolar RNA Host Gene 6,RNA Gene,14.984595
+MIR19A,MicroRNA 19a,RNA Gene,14.965824
+VIRMA,Vir Like M6A Methyltransferase Associated,Protein Coding,14.946551
+DLEU1,Deleted In Lymphocytic Leukemia 1,RNA Gene,14.9444685
+ELF3-AS1,ELF3 Antisense RNA 1,RNA Gene,14.900634
+DUXAP8,Double Homeobox A Pseudogene 8,Pseudogene,14.886914
+BCAR4,Breast Cancer Anti-Estrogen Resistance 4,RNA Gene,14.865068
+EPIST,Esophagus Epithelial Intergenic Associated Transcript,RNA Gene,14.856214
+LINC00161,Long Intergenic Non-Protein Coding RNA 161,RNA Gene,14.856214
+MTDH,Metadherin,Protein Coding,14.852453
+FAM99A,Family With Sequence Similarity 99 Member A,RNA Gene,14.840938
+LINC00488,Long Intergenic Non-Protein Coding RNA 488,RNA Gene,14.815698
+ELMO1-AS1,ELMO1 Antisense RNA 1,RNA Gene,14.815698
+CASP9,Caspase 9,Protein Coding,14.802741
+SMO,"Smoothened, Frizzled Class Receptor",Protein Coding,14.774199
+CDK1,Cyclin Dependent Kinase 1,Protein Coding,14.771916
+E2F1,E2F Transcription Factor 1,Protein Coding,14.754161
+SNHG3,Small Nucleolar RNA Host Gene 3,RNA Gene,14.753122
+MIR205,MicroRNA 205,RNA Gene,14.749751
+HOTAIRM1,"HOXA Transcript Antisense RNA, Myeloid-Specific 1",RNA Gene,14.747853
+MIR324,MicroRNA 324,RNA Gene,14.727402
+AKR1B10,Aldo-Keto Reductase Family 1 Member B10,Protein Coding,14.70173
+JAK1,Janus Kinase 1,Protein Coding,14.682789
+MIRLET7A1,MicroRNA Let-7a-1,RNA Gene,14.658844
+WEE2-AS1,WEE2 Antisense RNA 1,RNA Gene,14.6482525
+NRG1,Neuregulin 1,Protein Coding,14.62894
+ADAMTS9-AS2,ADAMTS9 Antisense RNA 2,RNA Gene,14.62892
+MIR194-2HG,MIR194-2 Host Gene,RNA Gene,14.62892
+PHACTR2-AS1,PHACTR2 Antisense RNA 1,RNA Gene,14.62892
+CDR1-AS,CDR1 Antisense RNA,RNA Gene,14.59805
+MIR9-2HG,MIR9-2 Host Gene,RNA Gene,14.57623
+ESR1,Estrogen Receptor 1,Protein Coding,14.576026
+LINC00665,Long Intergenic Non-Protein Coding RNA 665,RNA Gene,14.563655
+MINCR,MYC-Induced Long Non-Coding RNA,RNA Gene,14.553947
+PLAU,"Plasminogen Activator, Urokinase",Protein Coding,14.5299225
+MIR181C,MicroRNA 181c,RNA Gene,14.511586
+KLF4,KLF Transcription Factor 4,Protein Coding,14.505326
+MIRLET7E,MicroRNA Let-7e,RNA Gene,14.502298
+HCG18,HLA Complex Group 18,RNA Gene,14.497365
+LINC00707,Long Intergenic Non-Protein Coding RNA 707,RNA Gene,14.495739
+ERBB4,Erb-B2 Receptor Tyrosine Kinase 4,Protein Coding,14.485912
+KDM4A-AS1,KDM4A Antisense RNA 1,RNA Gene,14.485682
+SLC2A1-DT,SLC2A1 Divergent Transcript,RNA Gene,14.482477
+PEG10,Paternally Expressed 10,Protein Coding,14.43433
+MIRLET7D,MicroRNA Let-7d,RNA Gene,14.432889
+MKLN1-AS,MKLN1 Antisense RNA,RNA Gene,14.426566
+HNF1A,HNF1 Homeobox A,Protein Coding,14.400706
+MIR124-2,MicroRNA 124-2,RNA Gene,14.394835
+LINC00844,Long Intergenic Non-Protein Coding RNA 844,RNA Gene,14.391428
+PARP1,Poly(ADP-Ribose) Polymerase 1,Protein Coding,14.367093
+YY1AP1,YY1 Associated Protein 1,Protein Coding,14.332144
+HAND2-AS1,HAND2 Antisense RNA 1,RNA Gene,14.3269205
+DLEU2,Deleted In Lymphocytic Leukemia 2,RNA Gene,14.303629
+SIRT1,Sirtuin 1,Protein Coding,14.295406
+LINC00339,Long Intergenic Non-Protein Coding RNA 339,RNA Gene,14.287692
+GLUL,Glutamate-Ammonia Ligase,Protein Coding,14.274218
+RMRP,RNA Component Of Mitochondrial RNA Processing Endoribonuclease,RNA Gene,14.249926
+SPP1,Secreted Phosphoprotein 1,Protein Coding,14.236597
+LINC02870,Long Intergenic Non-Protein Coding RNA 2870,RNA Gene,14.232348
+LINC00221,Long Intergenic Non-Protein Coding RNA 221,RNA Gene,14.232348
+LINC00668,Long Intergenic Non-Protein Coding RNA 668,RNA Gene,14.232348
+FOXP3,Forkhead Box P3,Protein Coding,14.223028
+CHEK2,Checkpoint Kinase 2,Protein Coding,14.214203
+CACNA1G-AS1,CACNA1G Antisense RNA 1,RNA Gene,14.211348
+SMAD3,SMAD Family Member 3,Protein Coding,14.200218
+IGF2,Insulin Like Growth Factor 2,Protein Coding,14.198069
+FOXD2-AS1,FOXD2 Adjacent Opposite Strand RNA 1,RNA Gene,14.197375
+CCNL2,Cyclin L2,Protein Coding,14.195824
+MIR151A,MicroRNA 151a,RNA Gene,14.177241
+ASS1,Argininosuccinate Synthase 1,Protein Coding,14.171129
+ZEB1-AS1,ZEB1 Antisense RNA 1,RNA Gene,14.170682
+LINC01419,Long Intergenic Non-Protein Coding RNA 1419,RNA Gene,14.170682
+CALCA,Calcitonin Related Polypeptide Alpha,Protein Coding,14.165358
+LINC01089,Long Intergenic Non-Protein Coding RNA 1089,RNA Gene,14.140003
+SOX2-OT,SOX2 Overlapping Transcript,RNA Gene,14.135302
+DNM3OS,DNM3 Opposite Strand/Antisense RNA,RNA Gene,14.135302
+HOXA-AS2,HOXA Cluster Antisense RNA 2,RNA Gene,14.135302
+CXCL8,C-X-C Motif Chemokine Ligand 8,Protein Coding,14.12628
+CDKN1B,Cyclin Dependent Kinase Inhibitor 1B,Protein Coding,14.114768
+MIR103A2,MicroRNA 103a-2,RNA Gene,14.096168
+MIR148B,MicroRNA 148b,RNA Gene,14.091996
+LINC00963,Long Intergenic Non-Protein Coding RNA 963,RNA Gene,14.091996
+SFTA1P,"Surfactant Associated 1, LncRNA",RNA Gene,14.061713
+TINCR,TINCR Ubiquitin Domain Containing,Protein Coding,14.061713
+LNCRNA-ATB,LncRNA Activated By TGF-Beta,RNA Gene,14.058308
+LINC00857,Long Intergenic Non-Protein Coding RNA 857,RNA Gene,14.051748
+TRERNA1,Translation Regulatory Long Non-Coding RNA 1,RNA Gene,14.051748
+AURKA,Aurora Kinase A,Protein Coding,14.048958
+MAPK8,Mitogen-Activated Protein Kinase 8,Protein Coding,14.014768
+MIR22HG,MIR22 Host Gene,RNA Gene,14.006206
+MYLK,Myosin Light Chain Kinase,Protein Coding,13.994716
+ERBIN,Erbb2 Interacting Protein,Protein Coding,13.967814
+ZFR,Zinc Finger RNA Binding Protein,Protein Coding,13.939372
+MIRLET7A2,MicroRNA Let-7a-2,RNA Gene,13.939372
+IFNG,Interferon Gamma,Protein Coding,13.913119
+PTGER2,Prostaglandin E Receptor 2,Protein Coding,13.909089
+MIR99A,MicroRNA 99a,RNA Gene,13.909089
+SNHG20,Small Nucleolar RNA Host Gene 20,RNA Gene,13.909089
+MIRLET7A3,MicroRNA Let-7a-3,RNA Gene,13.909089
+MT1JP,"Metallothionein 1J, Pseudogene",Pseudogene,13.909089
+PCAT6,Prostate Cancer Associated Transcript 6,RNA Gene,13.908008
+KIF1B,Kinesin Family Member 1B,Protein Coding,13.879919
+NRAV,Negative Regulator Of Antiviral Response,RNA Gene,13.876554
+LINC01139,Long Intergenic Non-Protein Coding RNA 1139,RNA Gene,13.876554
+MNX1-AS1,MNX1 Antisense RNA 1,RNA Gene,13.875432
+GSTP1,Glutathione S-Transferase Pi 1,Protein Coding,13.849554
+AFAP1-AS1,AFAP1 Antisense RNA 1,RNA Gene,13.843787
+NBAT1,Neuroblastoma Associated Transcript 1,RNA Gene,13.841173
+NKILA,NF-KappaB Interacting LncRNA,RNA Gene,13.824453
+BLACAT1,BLACAT1 Overlapping LEMD1 Locus,Protein Coding,13.824453
+IFNL3,Interferon Lambda 3,Protein Coding,13.821791
+HLA-DQB1-AS1,HLA-DQB1 Antisense RNA 1,RNA Gene,13.808079
+XIAP,X-Linked Inhibitor Of Apoptosis,Protein Coding,13.792809
+HCG11,HLA Complex Group 11,RNA Gene,13.771764
+TRG-AS1,TRG Antisense RNA 1,RNA Gene,13.771764
+UBAP2,Ubiquitin Associated Protein 2,Protein Coding,13.770553
+HOXB-AS3,HOXB Cluster Antisense RNA 3,RNA Gene,13.770553
+DARS1-AS1,DARS1 Antisense RNA 1,RNA Gene,13.770553
+SPRY4-IT1,SPRY4 Intronic Transcript 1,RNA Gene,13.770553
+IL10,Interleukin 10,Protein Coding,13.769701
+CXCR4,C-X-C Motif Chemokine Receptor 4,Protein Coding,13.762022
+LINC01134,Long Intergenic Non-Protein Coding RNA 1134,RNA Gene,13.74027
+PTTG3P,"Pituitary Tumor-Transforming 3, Pseudogene",Pseudogene,13.74027
+SLC16A1-AS1,SLC16A1 Antisense RNA 1,RNA Gene,13.74027
+KRT18,Keratin 18,Protein Coding,13.73908
+CASC11,Cancer Susceptibility 11,RNA Gene,13.672355
+MEG8,"Maternally Expressed 8, Small Nucleolar RNA Host Gene",RNA Gene,13.672355
+MIR1-2,MicroRNA 1-2,RNA Gene,13.672355
+LINC00467,Long Intergenic Non-Protein Coding RNA 467,RNA Gene,13.672355
+MANCR,Mitotically Associated Long Non Coding RNA,RNA Gene,13.672355
+RHPN1-AS1,RHPN1 Antisense RNA 1,RNA Gene,13.672355
+CERS6-AS1,CERS6 Antisense RNA 1,RNA Gene,13.634278
+MIR30C1,MicroRNA 30c-1,RNA Gene,13.63322
+MAPKAPK5-AS1,MAPKAPK5 Antisense RNA 1,RNA Gene,13.63322
+METTL3,"Methyltransferase 3, N6-Adenosine-Methyltransferase Complex Catalytic Subunit",Protein Coding,13.630522
+FLT1,Fms Related Receptor Tyrosine Kinase 1,Protein Coding,13.626719
+STAT1,Signal Transducer And Activator Of Transcription 1,Protein Coding,13.583404
+FER1L4,Fer-1 Like Family Member 4 (Pseudogene),Pseudogene,13.578935
+TGFBR2,Transforming Growth Factor Beta Receptor 2,Protein Coding,13.559911
+SNHG12,Small Nucleolar RNA Host Gene 12,RNA Gene,13.548652
+HNF4A,Hepatocyte Nuclear Factor 4 Alpha,Protein Coding,13.52127
+GLMP,Glycosylated Lysosomal Membrane Protein,Protein Coding,13.519502
+SNHG15,Small Nucleolar RNA Host Gene 15,RNA Gene,13.516116
+SNHG7,Small Nucleolar RNA Host Gene 7,RNA Gene,13.516116
+DIO3OS,DIO3 Opposite Strand Upstream RNA,RNA Gene,13.516116
+MAGI2-AS3,MAGI2 Antisense RNA 3,RNA Gene,13.516116
+LINC00205,Long Intergenic Non-Protein Coding RNA 205,RNA Gene,13.516116
+EFNA1,Ephrin A1,Protein Coding,13.480736
+HIPK3,Homeodomain Interacting Protein Kinase 3,Protein Coding,13.480736
+ZNF281,Zinc Finger Protein 281,Protein Coding,13.480736
+BRCA1,BRCA1 DNA Repair Associated,Protein Coding,13.463929
+FGL1,Fibrinogen Like 1,Protein Coding,13.460331
+FENDRR,FOXF1 Adjacent Non-Coding Developmental Regulatory RNA,RNA Gene,13.441602
+HCP5,HLA Complex P5,RNA Gene,13.441602
+LEF1-AS1,LEF1 Antisense RNA 1,RNA Gene,13.441602
+WAC-AS1,WAC Antisense RNA 1,RNA Gene,13.441602
+LINC01116,Long Intergenic Non-Protein Coding RNA 1116,RNA Gene,13.441602
+PTPN6,Protein Tyrosine Phosphatase Non-Receptor Type 6,Protein Coding,13.421275
+ILF3-DT,ILF3 Divergent Transcript,RNA Gene,13.406984
+LINC00174,Long Intergenic Non-Protein Coding RNA 174,RNA Gene,13.406881
+ADAMTS14,ADAM Metallopeptidase With Thrombospondin Type 1 Motif 14,Protein Coding,13.397182
+MYLK-AS1,MYLK Antisense RNA 1,RNA Gene,13.397182
+FGD5-AS1,FGD5 Antisense RNA 1,RNA Gene,13.397182
+FOXP4-AS1,FOXP4 Antisense RNA 1,RNA Gene,13.397182
+LINC02580,Long Intergenic Non-Protein Coding RNA 2580,RNA Gene,13.397182
+SNAI3-AS1,SNAI3 Antisense RNA 1,RNA Gene,13.397182
+MIR210HG,MIR210 Host Gene,RNA Gene,13.397182
+GAS6-DT,GAS6 Divergent Transcript,RNA Gene,13.397182
+SUMO1P3,SUMO1 Pseudogene 3,Pseudogene,13.397182
+PANTR1,POU3F3 Adjacent Non-Coding Transcript 1,RNA Gene,13.380082
+SNHG18,Small Nucleolar RNA Host Gene 18,RNA Gene,13.380082
+SLC5A5,Solute Carrier Family 5 Member 5,Protein Coding,13.35164
+SNAI1,Snail Family Transcriptional Repressor 1,Protein Coding,13.34023
+GAPLINC,"Gastric Adenocarcinoma Associated, Positive CD44 Regulator, Long Intergenic Non-Coding RNA",RNA Gene,13.329139
+PTH,Parathyroid Hormone,Protein Coding,13.317316
+ZEB1,Zinc Finger E-Box Binding Homeobox 1,Protein Coding,13.300321
+MIR219A1,MicroRNA 219a-1,RNA Gene,13.288821
+CD44,CD44 Molecule (IN Blood Group),Protein Coding,13.286629
+TWIST1,Twist Family BHLH Transcription Factor 1,Protein Coding,13.28488
+AR,Androgen Receptor,Protein Coding,13.259261
+TCEAL1,Transcription Elongation Factor A Like 1,Protein Coding,13.253442
+BACE1-AS,BACE1 Antisense RNA,RNA Gene,13.253442
+LOXL1-AS1,LOXL1 Antisense RNA 1,RNA Gene,13.253442
+PINX1,PIN2 (TERF1) Interacting Telomerase Inhibitor 1,Protein Coding,13.247651
+TLK1,Tousled Like Kinase 1,Protein Coding,13.214307
+UFC1,Ubiquitin-Fold Modifier Conjugating Enzyme 1,Protein Coding,13.214307
+MAGEC2,MAGE Family Member C2,Protein Coding,13.180693
+HOMER1,Homer Scaffold Protein 1,Protein Coding,13.169888
+HELZ,Helicase With Zinc Finger,Protein Coding,13.169888
+RUSC1-AS1,RUSC1 Antisense RNA 1,RNA Gene,13.169888
+SNHG8,Small Nucleolar RNA Host Gene 8,RNA Gene,13.169888
+PART1,Prostate Androgen-Regulated Transcript 1,RNA Gene,13.169888
+SNHG9,Small Nucleolar RNA Host Gene 9,RNA Gene,13.169888
+HOXB-AS1,HOXB Cluster Antisense RNA 1,RNA Gene,13.169888
+LUCAT1,Lung Cancer Associated Transcript 1,RNA Gene,13.169888
+ZNF667-AS1,ZNF667 Antisense RNA 1,RNA Gene,13.169888
+TRIM52-AS1,TRIM52 Antisense RNA 1,RNA Gene,13.169888
+GIHCG,GIHCG Inhibitor Of MiR-200b/200a/429 Expression,RNA Gene,13.169888
+SNHG4,Small Nucleolar RNA Host Gene 4,RNA Gene,13.169888
+MYO7B-AS1,MYO7B Antisense RNA 1,RNA Gene,13.169888
+CDK2,Cyclin Dependent Kinase 2,Protein Coding,13.164341
+GABPB1,GA Binding Protein Transcription Factor Subunit Beta 1,Protein Coding,13.117198
+F11-AS1,F11 Antisense RNA 1,RNA Gene,13.117198
+CTBP1-DT,CTBP1 Divergent Transcript,RNA Gene,13.117198
+DBH-AS1,DBH Antisense RNA 1,RNA Gene,13.117198
+ZSCAN16-AS1,ZSCAN16 Antisense RNA 1,RNA Gene,13.117198
+RNF32-DT,RNF32 Divergent Transcript,RNA Gene,13.117198
+NPSR1-AS1,NPSR1 Antisense RNA 1,RNA Gene,13.117198
+ADORA2A-AS1,ADORA2A Antisense RNA 1,RNA Gene,13.117198
+TPT1-AS1,TPT1 Antisense RNA 1,RNA Gene,13.117198
+LINC01559,Long Intergenic Non-Protein Coding RNA 1559,RNA Gene,13.117198
+BBOX1-AS1,BBOX1 Antisense RNA 1,RNA Gene,13.117198
+FAM99B,Family With Sequence Similarity 99 Member B,RNA Gene,13.117198
+GMDS-DT,GMDS Divergent Transcript,RNA Gene,13.117198
+HOXA-AS3,HOXA Cluster Antisense RNA 3,RNA Gene,13.117198
+KIF9-AS1,KIF9 Antisense RNA 1,RNA Gene,13.117198
+LINC00460,Long Intergenic Non-Protein Coding RNA 460,RNA Gene,13.117198
+LINC00882,Long Intergenic Non-Protein Coding RNA 882,RNA Gene,13.117198
+LINC01133,Long Intergenic Non-Protein Coding RNA 1133,RNA Gene,13.117198
+LINC01572,Long Intergenic Non-Protein Coding RNA 1572,RNA Gene,13.117198
+PTPRG-AS1,PTPRG Antisense RNA 1,RNA Gene,13.117198
+TMEM220-AS1,TMEM220 Antisense RNA 1,RNA Gene,13.117198
+LINC01348,Long Intergenic Non-Protein Coding RNA 1348,RNA Gene,13.117198
+PCED1B-AS1,PCED1B Antisense RNA 1,RNA Gene,13.117198
+PITPNA-AS1,PITPNA Antisense RNA 1,RNA Gene,13.117198
+PTENP1,Phosphatase And Tensin Homolog Pseudogene 1,Pseudogene,13.117198
+TP53TG1,TP53 Target 1,RNA Gene,13.117198
+LINC00667,Long Intergenic Non-Protein Coding RNA 667,RNA Gene,13.117198
+LINC02362,Long Intergenic Non-Protein Coding RNA 2362,RNA Gene,13.117198
+DUXAP9,Double Homeobox A Pseudogene 9,Pseudogene,13.117198
+UBE2CP3,Ubiquitin Conjugating Enzyme E2 C Pseudogene 3,Pseudogene,13.117198
+ASAP1-IT1,ASAP1 Intronic Transcript 1,RNA Gene,13.117198
+C20orf204,Chromosome 20 Open Reading Frame 204,Protein Coding,13.117198
+MIR181B2,MicroRNA 181b-2,RNA Gene,13.101323
+MIR373,MicroRNA 373,RNA Gene,13.093598
+SQSTM1,Sequestosome 1,Protein Coding,13.067518
+POU3F3,POU Class 3 Homeobox 3,Protein Coding,13.055424
+ZNF561-AS1,ZNF561 Antisense RNA 1,RNA Gene,13.055424
+USP2-AS1,USP2 Antisense RNA 1,RNA Gene,13.048532
+MACC1-AS1,MACC1 Antisense RNA 1,RNA Gene,13.048532
+THADA,THADA Armadillo Repeat Containing,Protein Coding,13.032657
+TP53COR1,Tumor Protein P53 Pathway Corepressor 1,RNA Gene,12.992605
+EXOSC2,Exosome Component 2,Protein Coding,12.957225
+LINC00839,Long Intergenic Non-Protein Coding RNA 839,RNA Gene,12.957225
+SYBU-AS1,SYBU Antisense RNA 1,RNA Gene,12.957225
+MT-LIPCAR,Mitochondrially Encoded Long Non-Coding Cardiac Associated RNA,RNA Gene,12.957225
+EPAS1,Endothelial PAS Domain Protein 1,Protein Coding,12.956489
+HYCC1,Hyccin PI4KA Lipid Kinase Complex Subunit 1,Protein Coding,12.918091
+GFOD3P,"Gfo/Idh/MocA-Like Oxidoreductase Domain Containing 3, Pseudogene",Pseudogene,12.918091
+LINC-ROR,"Long Intergenic Non-Protein Coding RNA, Regulator Of Reprogramming",RNA Gene,12.915615
+BCL2L1,BCL2 Like 1,Protein Coding,12.890837
+LINC00922,Long Intergenic Non-Protein Coding RNA 922,RNA Gene,12.873672
+LINC01152,Long Intergenic Non-Protein Coding RNA 1152,RNA Gene,12.873672
+DUXAP10,Double Homeobox A Pseudogene 10,Pseudogene,12.873672
+TOP2A,DNA Topoisomerase II Alpha,Protein Coding,12.840361
+MYCNOS,MYCN Opposite Strand,RNA Gene,12.820982
+TATDN1,TatD DNase Domain Containing 1,Protein Coding,12.820982
+TONSL-AS1,TONSL Antisense RNA 1,RNA Gene,12.820982
+DLX6-AS1,DLX6 Antisense RNA 1,RNA Gene,12.820982
+DSCR8,Down Syndrome Critical Region 8,RNA Gene,12.820982
+UBE2R2-AS1,UBE2R2 Antisense RNA 1,RNA Gene,12.820982
+LINC00624,Long Intergenic Non-Protein Coding RNA 624,RNA Gene,12.820982
+LINC00491,Long Intergenic Non-Protein Coding RNA 491,RNA Gene,12.820982
+MELTF-AS1,MELTF Antisense RNA 1,RNA Gene,12.820982
+OSER1-DT,OSER1 Divergent Transcript,RNA Gene,12.820982
+SAMD12-AS1,SAMD12 Antisense RNA 1,RNA Gene,12.820982
+SEMA3B-AS1,SEMA3B Antisense RNA 1,RNA Gene,12.820982
+SOX9-AS1,SOX9 Antisense RNA 1,RNA Gene,12.820982
+VPS9D1-AS1,VPS9D1 Antisense RNA 1,RNA Gene,12.820982
+A1BG-AS1,A1BG Antisense RNA 1,RNA Gene,12.820982
+CDIPTOSP,"CDIP Transferase Opposite Strand, Pseudogene",Pseudogene,12.820982
+EWSAT1,Ewing Sarcoma Associated Transcript 1,RNA Gene,12.820982
+LINC01093,Long Intergenic Non-Protein Coding RNA 1093,RNA Gene,12.820982
+IGFL2-AS1,IGFL2 Antisense RNA 1,RNA Gene,12.820982
+PCNAP1,Proliferating Cell Nuclear Antigen Pseudogene 1,Pseudogene,12.820982
+HAR1B,Highly Accelerated Region 1B,RNA Gene,12.820982
+ZNF674-AS1,ZNF674 Antisense RNA 1,RNA Gene,12.820982
+TUBA1B-AS1,TUBA1B Antisense RNA 1,RNA Gene,12.820982
+PRR11-AS1,PRR11 Antisense RNA 1,RNA Gene,12.820982
+LOC107985656,Uncharacterized LOC107985656,RNA Gene,12.820982
+PKM,Pyruvate Kinase M1/2,Protein Coding,12.816334
+PSTPIP1,Proline-Serine-Threonine Phosphatase Interacting Protein 1,Protein Coding,12.7523155
+TCTN2,Tectonic Family Member 2,Protein Coding,12.7523155
+ZNF292,Zinc Finger Protein 292,Protein Coding,12.7523155
+SNHG22,Small Nucleolar RNA Host Gene 22,RNA Gene,12.7523155
+LPAL2,Lipoprotein(A) Like 2 (Pseudogene),Pseudogene,12.7523155
+MIR34AHG,MIR34A Host Gene,RNA Gene,12.7523155
+ARHGAP5-AS1,ARHGAP5 Antisense RNA 1 (Head To Head),RNA Gene,12.7523155
+LINC00470,Long Intergenic Non-Protein Coding RNA 470,RNA Gene,12.7523155
+MIRLET7F2,MicroRNA Let-7f-2,RNA Gene,12.7523155
+SCARNA10,Small Cajal Body-Specific RNA 10,RNA Gene,12.7523155
+TSPEAR-AS1,TSPEAR Antisense RNA 1,RNA Gene,12.7523155
+AIRN,Antisense Of IGF2R Non-Protein Coding RNA,RNA Gene,12.7523155
+NIFK-AS1,NIFK Antisense RNA 1,RNA Gene,12.7523155
+THAP9-AS1,THAP9 Antisense RNA 1,RNA Gene,12.7523155
+OR3A4P,Olfactory Receptor Family 3 Subfamily A Member 4 Pseudogene,Pseudogene,12.7523155
+ICAM4-AS1,ICAM4 Antisense RNA 1,RNA Gene,12.7523155
+RBM5-AS1,RBM5 Antisense RNA 1,RNA Gene,12.7523155
+ZNF204P,"Zinc Finger Protein 204, Pseudogene",Pseudogene,12.7523155
+ASMTL-AS1,ASMTL Antisense RNA 1,RNA Gene,12.7523155
+CCDC144NL-AS1,CCDC144NL Antisense RNA 1,RNA Gene,12.7523155
+GACAT3,Gastric Cancer Associated Transcript 3,RNA Gene,12.7523155
+GASAL1,Growth Arrest Associated LncRNA 1,RNA Gene,12.7523155
+GATA3-AS1,GATA3 Antisense RNA 1,RNA Gene,12.7523155
+HCG15,HLA Complex Group 15,RNA Gene,12.7523155
+HHIP-AS1,HHIP Antisense RNA 1,RNA Gene,12.7523155
+ID2-AS1,ID2 Antisense RNA 1,RNA Gene,12.7523155
+KTN1-AS1,KTN1 Antisense RNA 1,RNA Gene,12.7523155
+LINC00355,Long Intergenic Non-Protein Coding RNA 355,RNA Gene,12.7523155
+LINC00520,Long Intergenic Non-Protein Coding RNA 520,RNA Gene,12.7523155
+LINC00858,Long Intergenic Non-Protein Coding RNA 858,RNA Gene,12.7523155
+LINC00924,Long Intergenic Non-Protein Coding RNA 924,RNA Gene,12.7523155
+LINC00992,Long Intergenic Non-Protein Coding RNA 992,RNA Gene,12.7523155
+LINC01234,Long Intergenic Non-Protein Coding RNA 1234,RNA Gene,12.7523155
+LINC01564,Long Intergenic Non-Protein Coding RNA 1564,RNA Gene,12.7523155
+LINC01638,Long Intergenic Non-Protein Coding RNA 1638,RNA Gene,12.7523155
+LINC02273,Long Intergenic Non-Protein Coding RNA 2273,RNA Gene,12.7523155
+LINC02882,Long Intergenic Non-Protein Coding RNA 2882,RNA Gene,12.7523155
+NCK1-DT,NCK1 Divergent Transcript,RNA Gene,12.7523155
+NUTM2A-AS1,NUTM2A Antisense RNA 1,RNA Gene,12.7523155
+PRKAG2-AS1,PRKAG2 Antisense RNA 1,RNA Gene,12.7523155
+PRR7-AS1,PRR7 Antisense RNA 1,RNA Gene,12.7523155
+PSMG3-AS1,PSMG3 Antisense RNA 1,RNA Gene,12.7523155
+SAMMSON,Survival Associated Mitochondrial Melanoma Specific Oncogenic Non-Coding RNA,RNA Gene,12.7523155
+VESTAR,VEGFC MRNA Stability Associated LncRNA,RNA Gene,12.7523155
+CCDC183-AS1,CCDC183 Antisense RNA 1,RNA Gene,12.7523155
+FOXD3-AS1,FOXD3 Antisense RNA 1,RNA Gene,12.7523155
+HMMR-AS1,HMMR Antisense RNA 1,RNA Gene,12.7523155
+LINC00244,Long Intergenic Non-Protein Coding RNA 244,RNA Gene,12.7523155
+LINC00852,Long Intergenic Non-Protein Coding RNA 852,RNA Gene,12.7523155
+LINC01503,Long Intergenic Non-Protein Coding RNA 1503,RNA Gene,12.7523155
+LINC01612,Long Intergenic Non-Protein Coding RNA 1612,RNA Gene,12.7523155
+LINC02145,Long Intergenic Non-Protein Coding RNA 2145,RNA Gene,12.7523155
+LINC02499,Long Intergenic Non-Protein Coding RNA 2499,RNA Gene,12.7523155
+MITA1,Metabolism Induced Tumor Activator 1,RNA Gene,12.7523155
+NR4A1AS,NR4A1 Antisense RNA,RNA Gene,12.7523155
+PIK3CD-AS1,PIK3CD Antisense RNA 1,RNA Gene,12.7523155
+SACK1A-AS1,SACK1A Antisense RNA 1,RNA Gene,12.7523155
+SLC9A3-OT1,SLC9A3 3' UTR Overlapping Transcript 1,RNA Gene,12.7523155
+DNAJC3-DT,DNAJC3 Divergent Transcript,RNA Gene,12.7523155
+HOMER3-AS1,HOMER3 Antisense RNA 1,RNA Gene,12.7523155
+LINC00662,Long Intergenic Non-Protein Coding RNA 662,RNA Gene,12.7523155
+LINC01123,Long Intergenic Non-Protein Coding RNA 1123,RNA Gene,12.7523155
+LINC01793,Long Intergenic Non-Protein Coding RNA 1793,RNA Gene,12.7523155
+TMCO1-AS1,TMCO1 Antisense RNA 1,RNA Gene,12.7523155
+TUSC7,Tumor Suppressor Candidate 7,RNA Gene,12.7523155
+WWOX-AS1,WWOX Antisense RNA 1,RNA Gene,12.7523155
+ALKBH3-AS1,ALKBH3 Antisense RNA 1,RNA Gene,12.7523155
+AURKAP1,Aurora Kinase A Pseudogene 1,Pseudogene,12.7523155
+CADM1-AS1,CADM1 Antisense RNA 1,RNA Gene,12.7523155
+CYDAER,Cytoplasmic Differentiation Associated Epidermal RNA,RNA Gene,12.7523155
+DSCAM-AS1,DSCAM Antisense RNA 1,RNA Gene,12.7523155
+GSTP1P1,Glutathione S-Transferase Pi 1 Pseudogene 1,Pseudogene,12.7523155
+LINC02154,Long Intergenic Non-Protein Coding RNA 2154,RNA Gene,12.7523155
+LINC02475,Long Intergenic Non-Protein Coding RNA 2475,RNA Gene,12.7523155
+MROCKI,MARCKS Cis Regulating LncRNA Promoter Of Cytokines And Inflammation,RNA Gene,12.7523155
+SNTB1-AS1,SNTB1 Antisense RNA 1,RNA Gene,12.7523155
+TPTE2P1,TPTE2 Pseudogene 1,Pseudogene,12.7523155
+HIF1A-AS1,HIF1A Antisense RNA 1,RNA Gene,12.7523155
+SORBS2-AS1,SORBS2 Antisense RNA 1,RNA Gene,12.7523155
+FAUP4,FAU Pseudogene 4,Pseudogene,12.7523155
+LINC01189,Long Intergenic Non-Protein Coding RNA 1189,RNA Gene,12.7523155
+LINC01608,Long Intergenic Non-Protein Coding RNA 1608,RNA Gene,12.7523155
+RNF185-AS1,RNF185 Antisense RNA 1,RNA Gene,12.7523155
+SPAAR,Small Regulatory Polypeptide Of Amino Acid Response,Protein Coding,12.7523155
+LINC02835,Long Intergenic Non-Protein Coding RNA 2835,RNA Gene,12.7523155
+NTT,Noncoding Transcript In T Cells,RNA Gene,12.7523155
+TPTEP1,TPTE Pseudogene 1,Pseudogene,12.7523155
+DEPDC1-AS2,DEPDC1 Antisense RNA 2,RNA Gene,12.7523155
+IQANK1,IQ Motif And Ankyrin Repeat Containing 1,Protein Coding,12.7523155
+SNRPFP1,Small Nuclear Ribonucleoprotein Polypeptide F Pseudogene 1,Pseudogene,12.7523155
+TMEM238L,Transmembrane Protein 238 Like,Protein Coding,12.7523155
+PDS5B-DT,PDS5B Divergent Transcript,RNA Gene,12.7523155
+SENP3-EIF4A1,SENP3-EIF4A1 Readthrough (NMD Candidate),Protein Coding,12.7523155
+CDCA3P1,CDCA3 Pseudogene 1,Pseudogene,12.7523155
+LOC105372579,Uncharacterized LOC105372579,RNA Gene,12.7523155
+lnc-FAM72D-3,,RNA Gene,12.7523155
+TNFSF10,TNF Superfamily Member 10,Protein Coding,12.751473
+ABCG2,ATP Binding Cassette Subfamily G Member 2 (JR Blood Group),Protein Coding,12.729284
+SNHG11,Small Nucleolar RNA Host Gene 11,RNA Gene,12.691752
+KEAP1,Kelch Like ECH Associated Protein 1,Protein Coding,12.659148
+SLCO1B3,Solute Carrier Organic Anion Transporter Family Member 1B3,Protein Coding,12.593078
+PPARA,Peroxisome Proliferator Activated Receptor Alpha,Protein Coding,12.592281
+COPB2-DT,COPB2 Divergent Transcript,RNA Gene,12.58654
+DHRS4-AS1,DHRS4 Antisense RNA 1,RNA Gene,12.58654
+BSG-AS1,BSG Antisense RNA 1,RNA Gene,12.58654
+HMGB1,High Mobility Group Box 1,Protein Coding,12.467615
+TGFBR1,Transforming Growth Factor Beta Receptor 1,Protein Coding,12.444347
+RASSF1,Ras Association Domain Family Member 1,Protein Coding,12.436002
+HDAC1,Histone Deacetylase 1,Protein Coding,12.40995
+LINC01672,Long Intergenic Non-Protein Coding RNA 1672,RNA Gene,12.379974
+CERNA3,Competing Endogenous LncRNA 3 For MiR-645,RNA Gene,12.3625555
+RB1,RB Transcriptional Corepressor 1,Protein Coding,12.310887
+SLTM,SAFB Like Transcription Modulator,Protein Coding,12.2956295
+MIR98,MicroRNA 98,RNA Gene,12.282154
+GLB1,Galactosidase Beta 1,Protein Coding,12.266611
+ANXA2,Annexin A2,Protein Coding,12.219524
+CCNB1,Cyclin B1,Protein Coding,12.160003
+MDK,Midkine,Protein Coding,12.155524
+HMOX1,Heme Oxygenase 1,Protein Coding,12.123938
+SREBF1,Sterol Regulatory Element Binding Transcription Factor 1,Protein Coding,12.1166115
+BSG,Basigin (Ok Blood Group),Protein Coding,12.114913
+GAS8-AS1,GAS8 Antisense RNA 1,RNA Gene,12.105853
+ZNF385D-AS2,ZNF385D Antisense RNA 2,RNA Gene,12.105853
+CCDC196,Coiled-Coil Domain Containing 196,Protein Coding,12.105853
+HAMP,Hepcidin Antimicrobial Peptide,Protein Coding,12.071356
+SLC7A11,Solute Carrier Family 7 Member 11,Protein Coding,12.068838
+PLEKHA8P1,Pleckstrin Homology Domain Containing A8 Pseudogene 1,Pseudogene,12.037187
+MIR124-1HG,MIR124-1 Host Gene,RNA Gene,12.037187
+ASB16-AS1,ASB16 Antisense RNA 1,RNA Gene,12.037187
+B3GALT5-AS1,B3GALT5 Antisense RNA 1,RNA Gene,12.037187
+LINC01194,Long Intergenic Non-Protein Coding RNA 1194,RNA Gene,12.037187
+HAR1A,Highly Accelerated Region 1A,RNA Gene,12.037187
+LINC01430,Long Intergenic Non-Protein Coding RNA 1430,RNA Gene,12.037187
+BRCA2,BRCA2 DNA Repair Associated,Protein Coding,12.026629
+JAG1,Jagged Canonical Notch Ligand 1,Protein Coding,11.978666
+CDH1,Cadherin 1,Protein Coding,11.9635725
+PSMD10,"Proteasome 26S Subunit, Non-ATPase 10",Protein Coding,11.939543
+PDPK2P,"3-Phosphoinositide Dependent Protein Kinase 2, Pseudogene",Pseudogene,11.871411
+FBXL19-AS1,FBXL19 Antisense RNA 1,RNA Gene,11.871411
+TLR8-AS1,TLR8 Antisense RNA 1,RNA Gene,11.871411
+EBLN3P,"Endogenous Bornavirus Like Nucleoprotein 3, Pseudogene",Pseudogene,11.871411
+PURPL,P53 Upregulated Regulator Of P53 Levels,RNA Gene,11.871411
+EPS15-AS1,EPS15 Antisense RNA 1,RNA Gene,11.871411
+RSU1P2,Ras Suppressor Protein 1 Pseudogene 2,Pseudogene,11.871411
+MLH1,MutL Homolog 1,Protein Coding,11.870641
+UGT1A1,UDP Glucuronosyltransferase Family 1 Member A1,Protein Coding,11.868243
+C9orf78,Chromosome 9 Open Reading Frame 78,Protein Coding,11.86776
+IGF1,Insulin Like Growth Factor 1,Protein Coding,11.832349
+SLC2A1,Solute Carrier Family 2 Member 1,Protein Coding,11.82967
+F2,"Coagulation Factor II, Thrombin",Protein Coding,11.808578
+FBXW7,F-Box And WD Repeat Domain Containing 7,Protein Coding,11.792016
+LGALS3,Galectin 3,Protein Coding,11.771704
+UCHL1,Ubiquitin C-Terminal Hydrolase L1,Protein Coding,11.723312
+DNMT1,DNA Methyltransferase 1,Protein Coding,11.717836
+CYP1A2,Cytochrome P450 Family 1 Subfamily A Member 2,Protein Coding,11.715502
+CASC15,Cancer Susceptibility 15,RNA Gene,11.698732
+GNMT,Glycine N-Methyltransferase,Protein Coding,11.666765
+IL1B,Interleukin 1 Beta,Protein Coding,11.658772
+ALDH2,Aldehyde Dehydrogenase 2 Family Member,Protein Coding,11.622434
+MIR22,MicroRNA 22,RNA Gene,11.615262
+MIR34C,MicroRNA 34c,RNA Gene,11.594577
+URGCP,Upregulator Of Cell Proliferation,Protein Coding,11.581792
+TYMS,Thymidylate Synthetase,Protein Coding,11.581615
+SHH,Sonic Hedgehog Signaling Molecule,Protein Coding,11.540475
+CYP1A1,Cytochrome P450 Family 1 Subfamily A Member 1,Protein Coding,11.535528
+RELA,"RELA Proto-Oncogene, NF-KB Subunit",Protein Coding,11.526757
+CCNA2,Cyclin A2,Protein Coding,11.504811
+SNORD15A,"Small Nucleolar RNA, C/D Box 15A",RNA Gene,11.494594
+AURKB,Aurora Kinase B,Protein Coding,11.491386
+GSTM1,Glutathione S-Transferase Mu 1,Protein Coding,11.479721
+MCL1,"MCL1 Apoptosis Regulator, BCL2 Family Member",Protein Coding,11.462143
+ENG,Endoglin,Protein Coding,11.430999
+PCNA,Proliferating Cell Nuclear Antigen,Protein Coding,11.423575
+PLK1,Polo Like Kinase 1,Protein Coding,11.396486
+CLDN1,Claudin 1,Protein Coding,11.38715
+FASN,Fatty Acid Synthase,Protein Coding,11.368956
+SLC25A13,Solute Carrier Family 25 Member 13,Protein Coding,11.365764
+NME1,NME/NM23 Nucleoside Diphosphate Kinase 1,Protein Coding,11.357098
+XRCC1,X-Ray Repair Cross Complementing 1,Protein Coding,11.316529
+RAC1,Rac Family Small GTPase 1,Protein Coding,11.313965
+NQO1,NAD(P)H Quinone Dehydrogenase 1,Protein Coding,11.305584
+STARD13,StAR Related Lipid Transfer Domain Containing 13,Protein Coding,11.284406
+HGF,Hepatocyte Growth Factor,Protein Coding,11.209068
+CDK6,Cyclin Dependent Kinase 6,Protein Coding,11.19832
+HNF1B,HNF1 Homeobox B,Protein Coding,11.123917
+MIR10B,MicroRNA 10b,RNA Gene,11.122634
+IL17A,Interleukin 17A,Protein Coding,11.106693
+CXCL12,C-X-C Motif Chemokine Ligand 12,Protein Coding,11.07589
+GPT,Glutamic--Pyruvic Transaminase,Protein Coding,11.056258
+TCF4,Transcription Factor 4,Protein Coding,11.016131
+MAPK14,Mitogen-Activated Protein Kinase 14,Protein Coding,10.968765
+MAT1A,Methionine Adenosyltransferase 1A,Protein Coding,10.963479
+ANGPTL8,Angiopoietin Like 8,Protein Coding,10.90489
+CHEK1,Checkpoint Kinase 1,Protein Coding,10.874928
+CDK12,Cyclin Dependent Kinase 12,Protein Coding,10.868762
+DLC1,DLC1 Rho GTPase Activating Protein,Protein Coding,10.857498
+BMI1,"BMI1 Proto-Oncogene, Polycomb Ring Finger",Protein Coding,10.771475
+TJP2,Tight Junction Protein 2,Protein Coding,10.766886
+MAGED2,MAGE Family Member D2,Protein Coding,10.761149
+RXRA,Retinoid X Receptor Alpha,Protein Coding,10.753964
+H2AX,H2A.X Variant Histone,Protein Coding,10.715608
+RBM39,RNA Binding Motif Protein 39,Protein Coding,10.7127285
+LDHA,Lactate Dehydrogenase A,Protein Coding,10.691524
+NOTCH2,Notch Receptor 2,Protein Coding,10.686094
+MGMT,O-6-Methylguanine-DNA Methyltransferase,Protein Coding,10.653308
+NR1I2,Nuclear Receptor Subfamily 1 Group I Member 2,Protein Coding,10.64849
+MMP1,Matrix Metallopeptidase 1,Protein Coding,10.6176405
+CBX4,Chromobox 4,Protein Coding,10.589228
+WNT3A,Wnt Family Member 3A,Protein Coding,10.586639
+FAS,Fas Cell Surface Death Receptor,Protein Coding,10.544546
+MIR519D,MicroRNA 519d,RNA Gene,10.541049
+MIR29C,MicroRNA 29c,RNA Gene,10.539318
+CEBPA,CCAAT Enhancer Binding Protein Alpha,Protein Coding,10.536445
+MIR193A,MicroRNA 193a,RNA Gene,10.532962
+SMAD2,SMAD Family Member 2,Protein Coding,10.530168
+MIR140,MicroRNA 140,RNA Gene,10.526592
+TYMP,Thymidine Phosphorylase,Protein Coding,10.525452
+MIR146B,MicroRNA 146b,RNA Gene,10.5076275
+DNMT3A,DNA Methyltransferase 3 Alpha,Protein Coding,10.487087
+APOA1,Apolipoprotein A1,Protein Coding,10.441126
+KLRK1,Killer Cell Lectin Like Receptor K1,Protein Coding,10.415361
+HK2,Hexokinase 2,Protein Coding,10.414229
+CFLAR,CASP8 And FADD Like Apoptosis Regulator,Protein Coding,10.411054
+SOCS1,Suppressor Of Cytokine Signaling 1,Protein Coding,10.40737
+MIR199A1,MicroRNA 199a-1,RNA Gene,10.403072
+MIR499A,MicroRNA 499a,RNA Gene,10.392077
+PRKDC,"Protein Kinase, DNA-Activated, Catalytic Subunit",Protein Coding,10.377892
+CGAS,Cyclic GMP-AMP Synthase,Protein Coding,10.351393
+UBD,Ubiquitin Like Modifier D,Protein Coding,10.339241
+TLR3,Toll Like Receptor 3,Protein Coding,10.315761
+IGFBP3,Insulin Like Growth Factor Binding Protein 3,Protein Coding,10.308843
+JUN,"Jun Proto-Oncogene, AP-1 Transcription Factor Subunit",Protein Coding,10.308455
+FOXO1,Forkhead Box O1,Protein Coding,10.2691765
+CCL2,C-C Motif Chemokine Ligand 2,Protein Coding,10.260787
+RARB,Retinoic Acid Receptor Beta,Protein Coding,10.26024
+HDAC2,Histone Deacetylase 2,Protein Coding,10.247635
+MTHFR,Methylenetetrahydrofolate Reductase,Protein Coding,10.234626
+KRT8,Keratin 8,Protein Coding,10.217057
+ELAVL1,ELAV Like RNA Binding Protein 1,Protein Coding,10.198759
+MSH6,MutS Homolog 6,Protein Coding,10.196232
+SPARC,Secreted Protein Acidic And Cysteine Rich,Protein Coding,10.181858
+CAV1,Caveolin 1,Protein Coding,10.175499
+DDIT3,DNA Damage Inducible Transcript 3,Protein Coding,10.153288
+KLF6,KLF Transcription Factor 6,Protein Coding,10.143828
+LINC02605,Long Intergenic Non-Protein Coding RNA 2605,RNA Gene,10.129835
+MUC1,"Mucin 1, Cell Surface Associated",Protein Coding,10.087634
+GPX4,Glutathione Peroxidase 4,Protein Coding,10.085687
+HTATIP2,HIV-1 Tat Interactive Protein 2,Protein Coding,10.0801735
+FGF2,Fibroblast Growth Factor 2,Protein Coding,10.07277
+ABCC3,ATP Binding Cassette Subfamily C Member 3,Protein Coding,10.033808
+FGF3,Fibroblast Growth Factor 3,Protein Coding,10.030208
+TMEM176A,Transmembrane Protein 176A,Protein Coding,10.024662
+LGALS3BP,Galectin 3 Binding Protein,Protein Coding,10.002111
