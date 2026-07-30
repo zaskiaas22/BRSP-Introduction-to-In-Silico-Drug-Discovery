@@ -1,4 +1,15 @@
-# Capstone Project: In Silico Drug Discovery
+# Portfolio - In Silico Drug Discovery
+
+## Capstone Project (Final)
+- [Laporan Capstone](Laporan_Singkat_Capstone_PolyphyllinI_HCC.md)
+- Data: folder `data/`, `docking_files/`, `visualizations/`
+
+## Tugas Mingguan
+- Week 1: `07_Zaskia Adyarizki S_Week1.md`
+- Week 2: `07_Zaskia Adyarizki S_Week2.md`
+- Week 3: `07_Zaskia Adyarizki S_Week3.md`
+
+  # Capstone Project: In Silico Drug Discovery
 ## Eksplorasi Mekanisme Molekuler Polyphyllin I terhadap Hepatocellular Carcinoma (HCC)
 
 Proyek ini mengeksplorasi mekanisme molekuler **Polyphyllin I** (saponin steroid dari *Paris polyphylla*) terhadap **Hepatocellular Carcinoma (HCC)** melalui pendekatan **network pharmacology** dan **molecular docking**, mereplikasi dan mengembangkan lebih lanjut metodologi dari paper acuan:
