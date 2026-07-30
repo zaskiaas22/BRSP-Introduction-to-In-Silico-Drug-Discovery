@@ -5,9 +5,9 @@
 - Data pendukung: folder [`data/`](data), [`docking_files/`](docking_files), [`visualizations/`](visualizations)
 
 ## 📝 Tugas Mingguan
-- [Week 1 - Network Pharmacology (Carica papaya Linn vs Malaria)](07_Zaskia%20Adyarizki%20S_Week1.md)
-- [Week 2 - Network Pharmacology (QLYD vs Atherosclerosis)](07_Zaskia%20Adyarizki%20S_Week2.md)
-- [Week 3 - Molecular Docking (PPARG vs Wogonin)](07_Zaskia%20Adyarizki%20S_Week3.md)
+- [Week 1 - Network Pharmacology (Carica papaya Linn vs Malaria)](7_Zaskia%20Adyarizki%20S_Week1.md)
+- [Week 2 - Network Pharmacology (QLYD vs Atherosclerosis)](7_Zaskia%20Adyarizki%20S_Week2.md)
+- [Week 3 - Molecular Docking (PPARG vs Wogonin)](7_Zaskia%20Adyarizki%20S_Week3.md)
 
 # Capstone Project: In Silico Drug Discovery
 ## Eksplorasi Mekanisme Molekuler Polyphyllin I terhadap Hepatocellular Carcinoma (HCC)
